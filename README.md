@@ -1,6 +1,5 @@
 # Hi, I'm Owen Dellasega and I'm an 18 year old learning software development.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="owen-dellasega-294949278" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/owen-dellasega-294949278?trk=profile-badge">LinkedIn</a></div>
             
 <p>
             I first started learning to code back in 2020 through a beginner level Python course. It was enough to teach me the basics and make me realize my passion for coding.
